@@ -240,7 +240,12 @@ footer{
 /* Responsive Design */
 
 @media(max-width:768px)
-{}
+{
+    nav{
+    flex-direction:column;
+    gap:15px;
+}
+}
 
     nav{
         flex-direction:column;

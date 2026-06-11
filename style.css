@@ -173,6 +173,8 @@ section h2{
 .skills span:hover{
     transform:translateY(-5px) scale(1.05);
     box-shadow:0 8px 20px rgba(37,99,235,0.25);
+    background:#2563eb;
+    color:white;
 }
 
 /* Projects */

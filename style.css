@@ -133,6 +133,7 @@ nav{
 .btn-secondary:hover{
     transform:translateY(-4px);
     box-shadow:0 15px 35px rgba(37,99,235,0.15);
+    opacity:0.9;
 }
 
 /* Sections */
